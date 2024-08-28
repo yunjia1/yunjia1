@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yunjia 
-- 👀 I’m interested in Sustainability and AI
-- 🌱 I’m currently learning deep learning, federated learning, python
+- 👀 I’m interested in Full-Stack and Data Engineering
 - 💞️ I’m looking to collaborate on new projects!
 - 📫 How to reach me - Email: yunjia.hao@mail.utoronto.ca 
 
